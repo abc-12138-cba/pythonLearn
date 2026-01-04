@@ -13,7 +13,7 @@
 
   所有的数据容器，都支持【成员运算符】 in / not in  作用：判断某个元素是否在于容器中。
 
-  总结：str、list、tuple、set、dict
+  总结：str、list、tuple、set、dict （去重修）
     1. 有序与无序：
       ● 有序：列表(list)、元组(tuple)、字符串(str)—— 元素有顺序，可通过下标访问元素。
       ● 无序：集合(set)、字典(dict) —— 元素没有固定位置，不能用下标访问。
