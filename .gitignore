@@ -1,2 +1,5 @@
 /google_gemini/API_KEY.py
 /google_gemini/__pycache__
+*/.venv
+.venv
+*/.env
